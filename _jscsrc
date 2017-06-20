@@ -1,0 +1,27 @@
+{
+  "maxErrors": 2000,
+  "jsDoc": {
+    "checkAnnotations": {
+      "preset": "jsdoc3",
+      "extra": {
+        "docs": "some"
+      }
+    }
+  },
+  "requireCurlyBraces": [
+    "if",
+    "else",
+    "for",
+    "while",
+    "do",
+    "try",
+    "catch"
+  ],
+  "validateQuoteMarks": "\"",
+  "requireOperatorBeforeLineBreak": [],
+  "disallowOperatorBeforeLineBreak": [
+    "||",
+    "+",
+    "."
+  ]
+}

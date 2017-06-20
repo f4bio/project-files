@@ -1,0 +1,9 @@
+[user]
+	email = USER_EMAIL
+	name = USER_NAME
+[push]
+	default = simple
+[core]
+	autocrlf = input
+[color]
+	ui = auto
